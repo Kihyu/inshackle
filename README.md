@@ -1,6 +1,5 @@
 # Inshackle v1.0
-## Author: github.com/nandy121/inshackle
-### Don't copy this code without give me the credits, nerd! Please read the License 
+## Author: github.com/Kihyu/inshackle
 
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
